@@ -1,10 +1,10 @@
 # Finding Nearby Pharmacies with Geocoding API
 
-This testing demonstrates how to leverage the Pharmacy Geocoding API to find pharmacies near specific geographic coordinates using Mapbox.
+This test demonstrates how to find pharmacies near specific geographic coordinates using the Mapbox Geocoding API.
 
 ## Endpoint
 
-The endpoint for the Pharmacy Geocoding API is:
+The endpoint for finding nearby pharmacies is:
 
 ```bash
 https://api.mapbox.com/geocoding/v5/mapbox.places/pharmacy.json?proximity=-79.8419,35.1849&access_token=YOUR_MAPBOX_ACCESS_TOKEN
